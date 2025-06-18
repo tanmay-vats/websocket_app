@@ -1,6 +1,37 @@
 {
   "Minitest": {
     "coverage": {
+      "/Users/tanmayvats/Documents/practise/rails/websocket_app/app/controllers/home_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/tanmayvats/Documents/practise/rails/websocket_app/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/tanmayvats/Documents/practise/rails/websocket_app/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/tanmayvats/Documents/practise/rails/websocket_app/app/channels/application_cable/connection.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/tanmayvats/Documents/practise/rails/websocket_app/app/channels/chat_channel.rb": {
         "lines": [
           1,
@@ -41,37 +72,6 @@
           null
         ]
       },
-      "/Users/tanmayvats/Documents/practise/rails/websocket_app/app/controllers/home_controller.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/tanmayvats/Documents/practise/rails/websocket_app/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          null
-        ]
-      },
-      "/Users/tanmayvats/Documents/practise/rails/websocket_app/app/helpers/application_helper.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
-      "/Users/tanmayvats/Documents/practise/rails/websocket_app/app/channels/application_cable/connection.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          null
-        ]
-      },
       "/Users/tanmayvats/Documents/practise/rails/websocket_app/app/jobs/application_job.rb": {
         "lines": [
           0,
@@ -102,7 +102,7 @@
         "branches": {}
       }
     },
-    "timestamp": 1750251418
+    "timestamp": 1750269741
   },
   "Unit Tests": {
     "coverage": {
