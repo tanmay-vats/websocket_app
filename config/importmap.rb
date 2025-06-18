@@ -1,2 +1,2 @@
-pin "application", preload: true
-pin "@rails/actioncable", to: "actioncable.esm.js"
+pin 'application', preload: true
+pin '@rails/actioncable', to: 'actioncable.esm.js'
