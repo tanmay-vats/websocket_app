@@ -14,7 +14,7 @@ A real-time chat application using Rails 8 and Action Cable with 100% test cover
 - Comprehensive test suite
 - Modern Rails 8 stack with Importmaps
 
-## Prerequisites
+## 🎛️ Prerequisites
 
 - Ruby 3.2+
 - Rails 8.0+
