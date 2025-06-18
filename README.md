@@ -16,9 +16,9 @@ A real-time chat application using Rails 8 and Action Cable with 100% test cover
 
 ## 🎛️ Prerequisites
 
-- Ruby 3.2+
-- Rails 8.0+
-- Redis (for production)
+- Ruby 3.2+ ![Ruby](https://img.shields.io/badge/Ruby-white?logo=ruby&logoColor=maroon)
+- Rails 8.0+ ![Rails](https://img.shields.io/badge/Rails-white?logo=ruby-on-rails&logoColor=maroon)
+- Redis (for production) ![Redis](https://img.shields.io/badge/Redis-white?logo=redis&logoColor=red)
 
 
 ## 🧪 🔬 ⚗️ 🧫 Verified Edge Cases ![Edge Cases](https://img.shields.io/badge/-Rigorously_Tested-red)
